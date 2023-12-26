@@ -1,0 +1,24 @@
+# Trello Columns that are relevant
+MOBILE = ""
+BACKEND =""
+FRONTEND = ""
+BUGS = ""
+RETURNED_FROM_TESTING =""
+DOING = ""
+BLOCKED = ""
+TECHNICAL_REVIEW = ""
+TESTING = ""
+
+# We ignore these labels
+INACTIVE_PROJECTS = []
+NON_PROJECT_LABELS = []
+INACTIVE_LABELS = []
+
+SIZE_LABELS = []
+CODE_REVIEW_TESTING_LABELS = []
+
+ESTIMATIONS = {}
+
+PLURAL_ESTIMATIONS = {}
+
+TABLE_HEADERS = {}
